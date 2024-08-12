@@ -21,4 +21,4 @@ This project is a **Spotify Clone** web page built using HTML and CSS. It replic
 - **Google Fonts**: Custom fonts to closely match Spotify's design style.
 
 # 🤩 Preview:
-![](./Spotify.gif)# Spotify_Clone
+![](./Spotify.gif)
